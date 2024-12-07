@@ -22,10 +22,10 @@ The analysis focused on answering the following business questions:
   # Data Model
   <a href="Screenshot 2024-12-06 220102.png">FNP_Sales_Analysis</a>
 # Insight
-* ### 1. What is the total revenue generated?
+### 1. What is the total revenue generated?
 **Insight**: The total revenue generated is $3,520,984 from 1,000 orders.
 **Conclusion**: The company has a significant revenue base. Optimizing customer retention and expanding product offerings could help boost this figure further.
-* ### 2. What is the average order-to-delivery time?
+### 2. What is the average order-to-delivery time?
 **Insight**: The average time for orders to be delivered is 5.53 days.
 **Conclusion**: Delivery time is within a reasonable range, but further optimization could improve customer satisfaction, especially for time-sensitive occasions like birthdays or anniversaries.
 ### 3. How do sales vary across months in 2023?
