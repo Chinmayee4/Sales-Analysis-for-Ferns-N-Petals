@@ -16,9 +16,9 @@ improve its sales strategy and optimize customer satisfaction.
 
 **Data Visualization**: Various chart types and KPIs for insightful data representation. 
 # Data Model
-<a href="Screenshot 2024-12-06 220102.png"></a>
+<a href="Screenshot 2024-12-06 220102.png">FNP_data_model</a>
 # Dashboard
-<a href="Screenshot FNP.png"></a>
+<a href="Screenshot FNP.png">FNP_sales_analysis</a>
 # Key Insights
 * Total Orders: 1,000
 * Total Revenue: $3,520,984.00
