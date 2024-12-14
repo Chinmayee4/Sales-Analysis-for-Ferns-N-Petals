@@ -1,40 +1,49 @@
 # Sales-Analysis-for-Ferns-N-Petals
 # Introduction:
 This project involves the analysis of sales data from Ferns and Petals (FNP), a gifting company specializing in various occasions such as Diwali, Holi, Raksha Bandhan, Valentine’s Day, birthdays, and anniversaries. The primary goal is to extract actionable insights to enhance the company’s sales strategy and improve customer satisfaction.
-# Objective
-The analysis focused on answering the following business questions:
+# Overview
+The FNP Sales Analysis provides insights into the performance of orders, revenue distribution, customer spending patterns, and delivery efficiency. The analysis highlights key metrics such as total orders, revenue, average delivery time, and customer spending to help identify trends and areas for improvement.
+# Task:
+To analyze this dataset to uncover key insights related to sales trends,customer behavior, and product performance.
+ and answer the following key business questions to help the company
+improve its sales strategy and optimize customer satisfaction.
+# Technical Skills
+**Data Analysis**: Power Query for data connection and transformation.
+**Data Management**: Power Pivot for handling large datasets and efficient data storage.
+**Dashboard Design**: Excel for creating interactive and visually appealing dashboards.
+**Data Visualization**: Various chart types and KPIs for insightful data representation. 
+# Data Model
+<a href=Screenshot 2024-12-06 220102.png></a>
+# Dashboard
+<a href=Screenshot FNP.png></a>
 
-* What is the total revenue generated?
-* What is the average order-to-delivery time?
-* How do sales vary across months in 2023?
-* Which are the top revenue-generating products?
-* What is the average customer spending?
-* What is the sales performance of the top 5 products?
-* Which are the top 10 cities with the highest number of orders?
-* Analyze if higher order quantities impact delivery time?
-* How does revenue differ between occasions?
-* Which products are most popular for specific occasions?
-# Tools Used
-* Microsoft Excel: Data cleaning and dashboard design.
-* Power Query: Data transformation and preparation.
-* Power Pivot: Data modeling and creating calculated fields/measures.
-* Data Visualization: Interactive dashboards with slicers for filtering by date, occasion, and delivery time.
-  # Data Model
-  <a href="Screenshot 2024-12-06 220102.png">FNP_Sales_Analysis</a>
-# Insight
-* The total revenue generated is $3,520,984 from 1,000 orders.
-* The average time for orders to be delivered is 5.53 days.
-* Sales peak in March, likely due to festivals or seasonal demand.
-  Another surge is observe between September and November, coinciding with festive periods like Diwali and Raksha Bandhan.
-  Sales are lowest in the summer months (June to August).
-* The top products are Magman Set, Quia Gift, and Harum Pack.
-* Customers spent an average of $3,520.98 per order.
-* Top products consistently contributed to revenue across months.
-  These products experienced spikes during festive seasons like Valentine’s Day and Diwali.
-* Bhopal, Dibrugarh, and Haridwar are the top-performing cities.
-  Other high-performing cities included Imphal, Kavali, and North Dumdum.
-* The correlation between order quantity and delivery time is 0.0035. This indicates an extremely weak positive relationship, essentially meaning there is no meaningful correlation between the two variables.
-* Anniversaries and Valentine’s Day generate the highest revenue.
- Occasions like Diwali and Raksha Bandhan also contributed significantly to total sales.
-* Cakes and Soft Toys are highly popular for birthdays and anniversaries.
-  Flowers and Mugs performed well during Valentine’s Day.
+# Insights
+* Total Orders: 1,000
+* Total Revenue: $3,520,984.00
+* Average Order-Delivery Time: 5.53 days
+* Average Customer Spending: $3,520.98
+  
+# Revenue Insights:
+**Revenue by Occasion**:
+Anniversaries and Valentine's Day generate the highest revenue, each exceeding $700,000.
+Other occasions such as Birthdays and Raksha Bandhan also contribute significantly.
+**Revenue by Category**:
+Flowers are the leading revenue generator, followed by categories such as Cakes, Sweets, and Mugs.
+Top Products by Revenue:
+"Magman Set" and "Quia Gift" are among the best-selling products, each generating over $120,000.
+Seasonality and Trends:
+
+**Revenue by Month**:
+The months of February and October saw peak revenue, aligning with key festive and celebratory periods.
+Revenue by Hour:
+Revenue is relatively evenly distributed throughout the day, with slight peaks during mid-morning and afternoon hours.
+Geographical Insights:
+
+**Top 10 Cities by Orders**:
+Key cities such as Haridwar, Imphal, and Kavali dominate order volumes, reflecting strong customer bases in these regions.
+
+# Conclusion
+The FNP Sales Analysis highlights a strong performance with opportunities for growth in delivery efficiency, seasonal campaigns, and product diversification. By leveraging key insights from this report, FNP can further enhance its market position, customer satisfaction, and revenue generation.
+
+
+
